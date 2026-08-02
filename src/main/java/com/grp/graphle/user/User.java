@@ -1,4 +1,4 @@
-packcage com.grp.graphle.user;
+package com.grp.graphle.user;
 import jakarta.persistence.*;
 @Entity
 @Table(name = "users")
